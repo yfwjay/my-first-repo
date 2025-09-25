@@ -1,1 +1,1 @@
-"My name is James Kabuga and i'm learning Git." 
+"I love learning new technologies." 
