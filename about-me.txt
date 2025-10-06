@@ -1,2 +1,1 @@
-"I love learning new technologies and playing games" 
-"My favourite programming languange is Python" 
+" My favourite programming languange is Java script." 
