@@ -1,1 +1,1 @@
-" My favourite programming languange is Java script." 
+"My favourite programming language is C++." 
