@@ -1,1 +1,2 @@
-" My favourite programming languange is Python." 
+My favourite programming language is Python and JavaScript.
+
