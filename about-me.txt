@@ -5,4 +5,3 @@ Education:
 - Studying Software Engineering
 - Passionate about lifelong learning
 
-"This is a mistake." 
