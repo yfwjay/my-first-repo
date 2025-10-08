@@ -5,3 +5,10 @@ Education:
 - Studying Software Engineering
 - Passionate about lifelong learning
 
+"This is a mistake." 
+
+
+## Contact
+
+- **Email:** jamesndungukabuga@gmail.com
+- **Dev.to:** (https://dev.to/james_kabuga)
